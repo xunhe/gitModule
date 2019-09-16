@@ -1,0 +1,3 @@
+[submodule "gitSubModule"]
+	path = gitSubModule
+	url = https://github.com/xunhe/gitSubModule.git
